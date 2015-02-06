@@ -1,9 +1,9 @@
 === Plugin Name ===
-Contributors: craig-ralston
+Contributors: Craig Ralston
 Tags: jquery, statistics, javascript, stats, matlab
 Requires at least: 3.9
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: trunk
 
 This plugin installs jStat and required jQuery plugins to your installation.
 == Description ==
